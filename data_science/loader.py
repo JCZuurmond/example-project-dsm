@@ -2,7 +2,7 @@ import time
 
 
 def create_data():
-    return [1, 39, 2, 4, 5, 9, 10]
+    return [1, 39, 40, 41, 42, 43]
 
 
 def my_computation():
