@@ -1,2 +1,2 @@
 def amazing_things():
-    return 42
+    return 52
