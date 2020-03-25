@@ -1,3 +1,17 @@
 # Example project
 
 This project will show you how to set-up a data science project.
+
+# Install
+
+You install a project in the following way:
+
+```
+python setup.py install
+```
+
+Develop mode:
+
+```
+python setup.py develop
+```
