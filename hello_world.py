@@ -2,5 +2,5 @@ def hello_world(name='world'):
     return f'Hello, {name}!'
     
 
-def mul(left, right):
-    return left * right
+def mul(a, b, c):
+    return a * b * c
