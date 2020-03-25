@@ -15,3 +15,8 @@ Develop mode:
 ```
 python setup.py develop
 ```
+
+# Project structure
+
+- `README.md`: This README - explains the project.
+- `setup.py`: Install script
