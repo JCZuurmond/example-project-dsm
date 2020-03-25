@@ -8,3 +8,4 @@ def mul(a, b, c):
 
 def add(left=0, right=0):
     return left + right
+
