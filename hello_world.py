@@ -6,5 +6,5 @@ def mul(a, b, c):
     return a * b * c
 
 
-def add(left, right):
+def add(left=0, right=0):
     return left + right
